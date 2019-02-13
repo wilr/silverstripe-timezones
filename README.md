@@ -16,7 +16,7 @@ project directory and run dev build manually or run the following commands in
 your project directory:
 
 ```
-composer require spekulatius/silverstripe-timezones
+composer require onesandzeros/silverstripe-timezones
 ./vendor/bin/sake dev/build
 ```
 
