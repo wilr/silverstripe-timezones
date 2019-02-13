@@ -66,7 +66,7 @@ class PopulateTimeZonesTask extends MigrationTask
             $this->message('Adding new time zone entries.');
 
             // prepare the information provided by PHP
-            $timezones = DateTimeZone::listIdentifiers();
+            $timezones = \DateTimeZone::listIdentifiers();
 
             foreach ($timezones as $timezone) {
                 // replace some strings to increase the readibility.
