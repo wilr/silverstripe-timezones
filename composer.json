@@ -1,5 +1,5 @@
 {
-    "name": "onesandzeros/silverstripe-timezones",
+    "name": "spekulatius/silverstripe-timezones",
     "description": "Provides time zone data as well as a pre-populated dropdown field for SilverStripe",
     "type": "silverstripe-vendormodule",
     "license": "BSD-3-Clause",
